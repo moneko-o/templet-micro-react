@@ -1,1 +1,0 @@
-import 'PackageNameByReact/env.d';
